@@ -57,7 +57,8 @@ Hospitals and clinics faced challenges such as:
 ---
 
 ## Screenshots / Demo
-> ![Dashboard](screenshots/dashboard.png)  
+> ![Dashboard](screenshots/dashboard.png)
+> ![Dashboard2](screenshots/dashboard2.png)  
 > *Placeholder for Clinical System dashboard screenshot*
 
 ---
