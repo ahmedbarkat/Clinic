@@ -73,5 +73,6 @@ Source code cannot be shared publicly, but architecture, workflows, and system d
 
 ## Contact
 📧 ahmedbarakatsamra@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ahmed-barakat-dev)  
-🔗 [GitHub](https://github.com/ahmedbarakat)
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-barakat-8b7b9922/)  
+🔗 [GitHub](https://github.com/ahmedbarkat)
+
