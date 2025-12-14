@@ -36,10 +36,7 @@ Hospitals and clinics faced challenges such as:
 - **Frontend:** Vue.js + Bootstrap (optional dashboard UI)  
 - **Infrastructure / Deployment:** AWS EC2, S3, RDS  
 - **CI/CD:** Docker, GitHub Actions  
-
-> ![Architecture Diagram](diagrams/architecture.png)  
-> *Placeholder for system architecture diagram*
-
+ 
 ---
 
 ## Key Achievements
